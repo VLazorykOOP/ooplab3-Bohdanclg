@@ -20,5 +20,11 @@ int main()
     if (conv == 1) conv = mainExample3(); 
     if (conv == 1) conv = mainExample4();
 
+    ///test
+    if (conv == 1) conv = mainExample1();
+    if (conv == 1) conv = mainExample3(); 
+    if (conv == 1) conv = mainExample4();
+    ///end test
+
 }
 
